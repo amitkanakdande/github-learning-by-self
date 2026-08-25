@@ -1,1 +1,5 @@
+# Repository owner
 * @amitkanakdande
+
+# Protect CODEOWNERS itself
+/.github/CODEOWNERS @amitkankadande
