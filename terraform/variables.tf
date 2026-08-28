@@ -16,4 +16,5 @@ variable "subnet_id" {
 variable "env" {
   description = "Environment name (prod/dev)"
   type        = string
+  default = "dev"
 }
