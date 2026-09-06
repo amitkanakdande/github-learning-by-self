@@ -36,3 +36,20 @@ git stash show
 
 
 git stash show stash@{0}
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/developer/github-learning-by-self.git
+  Push  URL: https://github.com/developer/github-learning-by-self.git
+  HEAD branch: main
+  Remote branches:
+    dev                tracked
+    feature/my-feature tracked
+    main               tracked
+  Local branches configured for 'git pull':
+    dev  merges with remote dev
+    main merges with remote main
+  Local refs configured for 'git push':
+    dev                pushes to dev                (up to date)
+    feature/my-feature pushes to feature/my-feature (up to date)
+    main               pushes to main               (up to date)
