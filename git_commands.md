@@ -53,3 +53,7 @@ $ git remote show origin
     dev                pushes to dev                (up to date)
     feature/my-feature pushes to feature/my-feature (up to date)
     main               pushes to main               (up to date)
+
+#git branch feature-branch   / git checkout -b feature-branch
+#git switch feature-branch  / git checkout feature-branch
+#git switch -c feature-branch / git checkout -b feature-branch
