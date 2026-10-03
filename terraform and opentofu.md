@@ -1,4 +1,4 @@
-## Terraform/opentofu -> auto-complete install
+#### Terraform/opentofu -> auto-complete install
 
 ```terraform-bash
 terraform -install-autocomplete
@@ -7,7 +7,7 @@ terraform -install-autocomplete
 tofu -install-autocomplete 
 ```
 
-## Terraform/opentofu -> auto-complete uninstall
+#### Terraform/opentofu -> auto-complete uninstall
 
 ```terraform-bash
 terraform -uninstall-autocomplete
@@ -16,7 +16,7 @@ terraform -uninstall-autocomplete
 tofu -uninstall-autocomplete 
 ```
 
-## Terraform/opentofu -> version
+#### Terraform/opentofu -> version
 
 ```terraform-bash
 terraform version
